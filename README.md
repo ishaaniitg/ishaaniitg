@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Ishaan Bahl
 
-<!--
-**ishaaniitg/ishaaniitg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre Final Year B.Tech student at **IIT Guwahati** (ECE)  
+🧠 I’m into **Competitive Programming**, **DSA**, and solving real-world problems  
+💻 Learning full-stack web development and modern tech stacks  
+📚 Currently exploring: MERN Stack , Authentication, and more  
+🚀 Passionate about clean code, logic building, and system design  
+📫 Reach me at: ishaanbahl5@gmail.com  
+🌐 Portfolio (coming soon): [ishaaniitg.github.io](https://ishaaniitg.github.io/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+
+- MongoDB, Express.js, React.js, Node.js (MERN)
+- Git & GitHub, JWT Auth , C++
+- Clean coding practices & frontend/backend archit
+
