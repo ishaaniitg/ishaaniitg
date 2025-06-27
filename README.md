@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ishaan Bahl
+# Hi everyone 👋 I'm Ishaan Bahl
 
 🎓 Pre Final Year B.Tech student at **IIT Guwahati** (ECE)  
 🧠 I’m into **Competitive Programming**, **DSA**, and solving real-world problems  
