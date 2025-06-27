@@ -1,6 +1,6 @@
 # Hi everyone 👋 I'm Ishaan Bahl
 
-🎓 Pre Final Year B.Tech student at **IIT Guwahati** (ECE)  
+🎓 Pre Final Year B.Tech student at **IIT Guwahati** (EEE)  
 🧠 I’m into **Competitive Programming**, **DSA**, and solving real-world problems  
 💻 Learning full-stack web development and modern tech stacks  
 📚 Currently exploring: MERN Stack , Authentication, and more  
