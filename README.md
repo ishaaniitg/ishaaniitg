@@ -25,7 +25,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/ishaaanitg">
+  <a href="https://github.com/ishaanitg">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
   <a href="mailto:ishaaanbahl5@gmail.com">
