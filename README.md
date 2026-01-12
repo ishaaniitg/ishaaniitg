@@ -31,9 +31,9 @@
   <a href="mailto:ishaaanbahl5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://codeforces.com/profile/ishaan19code">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces">
-  </a>
+ <a href="https://codeforces.com/profile/ishaan19code">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
 </p>
 
 ---
@@ -82,13 +82,14 @@
 ## 🌱 Currently Learning
 
 <p align="center">
-  📌 Machine Learning fundamentals <br>
-  📌 NumPy, Pandas, Scikit-learn, Plotly <br>
-  📌 Exploratory Data Analysis & Visualization <br>
-  📌 MERN Stack & JWT Authentication <br>
-  📌 Competitive Programming & DSA <br>
-  📌 Clean coding & frontend/backend architecture
+  🚀 <b>Machine Learning Fundamentals</b><br><br>
+  📊 <b>NumPy, Pandas, Scikit-learn, Plotly</b><br><br>
+  🔍 <b>Exploratory Data Analysis & Visualization</b><br><br>
+  🌐 <b>MERN Stack & JWT Authentication</b><br><br>
+  🧠 <b>Competitive Programming & DSA</b><br><br>
+  🧹 <b>Clean Coding & Frontend/Backend Architecture</b>
 </p>
+
 
 ---
 
