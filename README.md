@@ -6,10 +6,13 @@
 
 ---
 
-## 🙋‍♂️ About Me
+<div align="center">
+
+## 💫 About Me
 
 🎓 Pre-Final Year **Undergrad student** at **IIT Guwahati**  
 💡 Into **Competitive Programming, DSA, and solving real-world problems**  
+🏆 **Codeforces Specialist** (Max Rating: **1427**)  
 🤖 Currently learning **Machine Learning fundamentals & Python libraries**  
 🌐 Exploring **Full-Stack Web Development (MERN), Authentication, and APIs**  
 🧠 Passionate about **clean code, logic building, and system design basics**
@@ -28,6 +31,9 @@
   <a href="mailto:ishaaanbahl5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://codeforces.com/profile/ishaan19code">
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces">
+</a>
 </p>
 
 ---
@@ -87,3 +93,4 @@
 ---
 
 ⭐ *Building step by step — consistency over hype.*
+</div>
