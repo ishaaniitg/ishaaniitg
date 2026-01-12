@@ -1,21 +1,21 @@
 <h1 align="center">👋 Hi everyone, I'm Ishaan Bahl</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Pre-Final+Year+IIT+Guwahati+Student;Competitive+Programmer+%26+DSA;Machine+Learning+Enthusiast;Learning+Python,+ML+%26+MERN&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Pre-Final+Yearite+at+IIT+Guwahati;Competitive+Programmer;Machine+Learning+Enthusiast;Learning+MERN+STACK&center=true&width=700&height=45">
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-🎓 Pre-Final Year **B.Tech student (EEE)** at **IIT Guwahati**  
+🎓 Pre-Final Year **Undergrad student** at **IIT Guwahati**  
 💡 Into **Competitive Programming, DSA, and solving real-world problems**  
 🤖 Currently learning **Machine Learning fundamentals & Python libraries**  
 🌐 Exploring **Full-Stack Web Development (MERN), Authentication, and APIs**  
 🧠 Passionate about **clean code, logic building, and system design basics**
 
 📫 Reach me at: **ishaaanbahl5@gmail.com**  
-🌍 Portfolio (coming soon): **https://ishaaanitg.github.io**
+🌍 Portfolio : **https://myportfoliowebsiteishaaniitg.netlify.app/**
 
 ---
 
