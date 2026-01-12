@@ -31,10 +31,9 @@
   <a href="mailto:ishaaanbahl5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
- <a href="https://codeforces.com/profile/ishaan19code">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" height="32"/>
+<a href="https://codeforces.com/profile/ishaan19code">
+  <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
 </a>
-
 </p>
 
 ---
