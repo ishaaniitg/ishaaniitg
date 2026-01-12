@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 <a href="https://codeforces.com/profile/ishaan19code">
-  <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+ <img src="assets/codeforces-sponsored-by-ton.webp" alt="Codeforces Sponsored by TON" width="500">
 </a>
 </p>
 
