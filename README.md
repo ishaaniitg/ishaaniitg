@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi everyone, I'm Ishaan Bahl</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Pre-Final+Yearite+at+IIT+Guwahati;Competitive+Programmer;Machine+Learning+Enthusiast;Learning+MERN+STACK&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Pre-Final+Yearite+at+IIT+Guwahati;Competitive+Programmer;Machine+Learning+Enthusiast;Learning+MERN+STACK+Web+Development&center=true&width=700&height=45">
 </p>
 
 ---
@@ -36,15 +36,14 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 ---
 
-### 🤖 Machine Learning & Data Science (Learning)
+### 🤖 Machine Learning & Data Science 
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
@@ -70,7 +69,7 @@
 
 ## 🌱 Currently Learning
 
-- Machine Learning fundamentals (Regression, Classification, Basics of SVM)
+- Machine Learning fundamentals 
 - Python libraries: NumPy, Pandas, Scikit-learn
 - Exploratory Data Analysis & Visualization
 - MERN Stack, JWT Authentication
