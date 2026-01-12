@@ -1,20 +1,21 @@
-<h1 align="center">👋 Hi, I'm Ishaan Bahl</h1>
+<h1 align="center">👋 Hi everyone, I'm Ishaan Bahl</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Pre-Final+Year+IIT+Guwahati+Student;Machine+Learning+Enthusiast;Competitive+Programmer;Learning+Python+%26+ML&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Pre-Final+Year+IIT+Guwahati+Student;Competitive+Programmer+%26+DSA;Machine+Learning+Enthusiast;Learning+Python,+ML+%26+MERN&center=true&width=700&height=45">
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-🎓 Pre-Final Year **B.Tech (EEE)** student at **IIT Guwahati**  
-💻 Interested in **Machine Learning, Python, DSA, and Competitive Programming**  
-🚀 Exploring **ML algorithms, Python libraries, and real-world problem solving**  
-🧠 Learning **clean code, system design basics, and scalable software practices**  
-📈 Aspiring **Machine Learning Engineer / Software Engineer**
+🎓 Pre-Final Year **B.Tech student (EEE)** at **IIT Guwahati**  
+💡 Into **Competitive Programming, DSA, and solving real-world problems**  
+🤖 Currently learning **Machine Learning fundamentals & Python libraries**  
+🌐 Exploring **Full-Stack Web Development (MERN), Authentication, and APIs**  
+🧠 Passionate about **clean code, logic building, and system design basics**
 
-📫 Reach me at: **ishaaanbahl5@gmail.com**
+📫 Reach me at: **ishaaanbahl5@gmail.com**  
+🌍 Portfolio (coming soon): **https://ishaaanitg.github.io**
 
 ---
 
@@ -55,11 +56,12 @@
 
 ---
 
-### 🌐 Web & Tools (Exploring)
+### 🌐 Web Development & Tools
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
 </p>
@@ -68,11 +70,12 @@
 
 ## 🌱 Currently Learning
 
-- Machine Learning fundamentals (Supervised & Unsupervised)
+- Machine Learning fundamentals (Regression, Classification, Basics of SVM)
 - Python libraries: NumPy, Pandas, Scikit-learn
-- Data Visualization & EDA
-- MERN Stack basics
+- Exploratory Data Analysis & Visualization
+- MERN Stack, JWT Authentication
 - Competitive Programming & DSA
+- Clean coding practices & frontend/backend architecture
 
 ---
 
@@ -84,4 +87,4 @@
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ *Building step by step — consistency over hype.*
