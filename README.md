@@ -10,11 +10,11 @@
 
 ## 💫 About Me
 
-🎓 Pre-Final Year **Undergrad student** at **IIT Guwahati**  
+🎓 Final Year **Undergrad student** at **IIT Guwahati**  
 💡 Into **Competitive Programming, DSA, and solving real-world problems**  
-🏆 **Codeforces Specialist** (Max Rating: **1427**)  
+🏆 **Codeforces Specialist** (Max Rating: **1527**)  
 🤖 Learning **Machine Learning & Data Science**  
-🌐 Exploring **Full-Stack Web Development (MERN)**  
+🌐 Exploring **Automating workflows**  
 🧠 Love **clean code, strong logic, and scalable systems**
 
 📫 **Email:** ishaaanbahl5@gmail.com  
