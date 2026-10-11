@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi everyone, I'm Ishaan Bahl</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Final+Year+at+IIT+Guwahati;Developer+Intern+%40+Samsung+R%26D;Competitive+Programmer;ML%2FAI+%26+Full-Stack+Developer&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Final+Yearite+at+IIT+Guwahati;Developer+Intern+%40+Samsung+R%26D+Institute;Competitive+Programmer;ML%2FAI+%26+Full-Stack+Developer&center=true&width=700&height=45">
 </p>
 
 ---
